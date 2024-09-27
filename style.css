@@ -1,1 +1,18 @@
 /* Your code here */
+.card-1{
+background-color: rgb(146, 221, 80);
+text-align: center;
+color: rgb(169, 163, 2);
+font-size: 30px;
+border-bottom:10px solid rgb(0, 138, 51);
+border-top:10px solid rgb(0, 138, 51)
+}
+.bigpoo{
+color: rgb(74, 155, 8);
+font-size: 18px;
+}
+.imagee{
+ width: 75px;
+ padding-right: 200px;
+ padding-bottom: 100px;
+}
