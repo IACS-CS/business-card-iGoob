@@ -11,8 +11,12 @@ border-top:10px solid rgb(0, 138, 51)
 color: rgb(74, 155, 8);
 font-size: 18px;
 }
+
+.slogan{
+color: rgb(34, 76, 0);
+font-size: 18px;
+}
+
 .imagee{
  width: 75px;
- padding-right: 200px;
- padding-bottom: 100px;
 }
