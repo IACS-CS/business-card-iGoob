@@ -21,6 +21,7 @@ font-size: 18px;
  width: 75px;
 }
 .card-2{
+  font-family:"Oswald", sans-serif;
   background-color:rgb(247, 238, 227);
   color: rgb(103, 102, 102);
   display: flex;
